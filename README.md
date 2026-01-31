@@ -31,9 +31,11 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
-![image](https://github.com/user-attachments/assets/40230b02-881b-4860-bf54-736709ed1987)
-![image](https://github.com/user-attachments/assets/84ab9509-f678-42cd-994a-7d21054be122)
-![image](https://github.com/user-attachments/assets/37228e74-ba37-4638-a4d9-bf89f79f943a)
+
+<img width="1705" height="1063" alt="image" src="https://github.com/user-attachments/assets/4330ef2d-cc2e-41d2-a798-cd26c8e692c5" />
+
+<img width="1707" height="1069" alt="image" src="https://github.com/user-attachments/assets/c08be4c1-bd1f-4a35-94cc-a58a81908b51" />
+
 
 
 ### Result:
